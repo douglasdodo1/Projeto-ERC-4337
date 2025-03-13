@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@aragon/os": "^4.4.0",
+    "@openzeppelin/contracts": "^5.2.0"
+  },
+  "devDependencies": {
+    "surya": "^0.4.12"
+  }
+}
